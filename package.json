@@ -1,0 +1,14 @@
+{
+	"name": "hyperswarm-errors",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "Tomas Ravinskas <tomas.rav@gmail.com>",
+	"license": "MIT",
+	"private": true,
+	"dependencies": {
+		"@hyperswarm/dht": "^6.2.1",
+		"hyperswarm": "^4.2.0",
+		"sodium-universal": "^3.1.0"
+	},
+	"devDependencies": {}
+}
